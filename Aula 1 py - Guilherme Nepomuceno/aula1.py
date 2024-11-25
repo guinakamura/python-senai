@@ -1,0 +1,5 @@
+print('Olá, mundo')
+print('Meu nome é, Henrique Falcão')
+print('Tenho 16 anos')
+print('gosto de jogar bola')
+print('e minha comida predileta és Parmegiana')
